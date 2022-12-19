@@ -8,6 +8,7 @@ I'am a student of IT speciality, with a Front-End Developer skills. Сurrently I
 * E-mail: [igor.yanushkevich@gmail.com](igor.yanushkevich@gmail.com)
 * GitHub: [IharY](https://github.com/IharY)
 * Skype: [i.yanush](https://skype:i.yanush)
+* Discord: IharYanush#7622
 
 ## Skill points
 * Hard skills
