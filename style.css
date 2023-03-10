@@ -254,3 +254,33 @@ nav{
   font-family: "Roboto", sans-serif;
   font-weight:400;
 }
+
+#summary{
+  margin-bottom: 50px; 
+  margin-top: 20px;
+}
+
+#code{
+  margin-bottom: 50px; 
+  margin-top: 20px;
+}
+
+#skills{
+  height: 220px;
+}
+
+#contacts{
+  height: 220px;
+}
+
+#first_li{
+  padding-top: 0;
+}
+
+#experience{
+  height: 180px;
+}
+
+#education{
+  height: 180px;
+}
