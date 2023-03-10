@@ -284,3 +284,7 @@ nav{
 #education{
   height: 180px;
 }
+
+#first_contacts_li{
+  padding-top: 0;
+}
